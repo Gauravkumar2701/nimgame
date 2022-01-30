@@ -1,1 +1,1 @@
-# nimgame
+.idea

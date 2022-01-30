@@ -1,0 +1,6 @@
+{
+  "NimServerAddress": "127.0.0.1:41600",
+  "TracingServerAddress": "127.0.0.1:41699",
+  "Secret": "",
+  "TracingIdentity": "server"
+}
